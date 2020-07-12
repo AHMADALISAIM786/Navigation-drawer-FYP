@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Smart Eyecare</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string-array name="disease_title">
+        <item>Cataract</item>
+        <item>Glaucoma</item>
+        <item>Retinoblastoma</item>
+        <item>Diabetic Retinopathy</item>
+        <item>About Us</item>
+        <item>FAQ</item>
+
+
+    </string-array>
+
+    <string-array name="disease_desc">
+        <item>Cataract</item>
+        <item>Glaucoma</item>
+        <item>Retinoblastoma</item>
+        <item>Diabetic Retinopathy</item>
+        <item>About Us</item>
+        <item>FAQ</item>
+    </string-array>
+
+</resources>

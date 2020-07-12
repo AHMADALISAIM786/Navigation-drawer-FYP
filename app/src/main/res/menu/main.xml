@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Eye Disease Info">
+
+        <menu>
+            <item
+                android:id="@+id/dis_cataract"
+                android:title="Cataract"
+                android:icon="@drawable/disease_icon"/>
+            <item
+                android:id="@+id/dis_glaucoma"
+                android:title="Glaucoma"
+                android:icon="@drawable/disease_icon"/>
+            <item
+                android:id="@+id/dis_retinoblas"
+                android:title="Retinoblastoma"
+                android:icon="@drawable/disease_icon"/>
+            <item
+                android:id="@+id/dis_diabetic"
+                android:title="Diabetic retinopathy"
+                android:icon="@drawable/disease_icon"/>
+        </menu>
+    </item>
+
+    <item android:title="App">
+        <menu>
+            <item
+                android:id="@+id/about"
+                android:title="About Us"
+                android:icon="@drawable/aboutus_icon"/>
+            <item
+                android:id="@+id/faq"
+                android:title="FAQ"
+                android:icon="@drawable/faq_icon"/>
+        </menu>
+
+    </item>
+</menu>
